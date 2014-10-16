@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bft:home|Door43 (bft)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bft|d43-bft repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bft/archive/master.zip|d43-bft.zip]]
+
+**Recent Changes**
+{{changes>ns = bft}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bft|Ethnologue data]]
+
